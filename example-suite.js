@@ -1,4 +1,5 @@
 #import "jasmine-uiautomation.js"
+#import "jasmine/lib/jasmine-core/jasmine.js"
 #import "jasmine-uiautomation-reporter.js"
 
 // Import your JS spec files here.
